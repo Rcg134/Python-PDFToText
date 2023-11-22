@@ -15,5 +15,5 @@ This Python script converts PDF files to text using the `pdfplumber` library. It
 git clone https://github.com/Rcg134/Python-PDFToText.git
 cd your-repository
 
-python PDFTotext.py -i "input pdf" -o "output.txt"
+python .venv/PDFTotext.py -i "input pdf" -o "output.txt"
 
