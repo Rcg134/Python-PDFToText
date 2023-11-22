@@ -12,7 +12,7 @@ This Python script converts PDF files to text using the `pdfplumber` library. It
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/Rcg134/Python-PDFToText.git
 cd your-repository
 
 python PDFTotext.py -i "input pdf" -o "output.txt"
